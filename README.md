@@ -1,2 +1,2 @@
-# module3_assignment
-This is the answer for the module 3 assignment - coursera 
+# module_3
+Solution for the module 3 assignment
